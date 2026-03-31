@@ -1,0 +1,9 @@
+aiortc
+opencv-python
+numpy
+av
+fastapi
+playwright
+uvicorn
+websockets
+wsproto
